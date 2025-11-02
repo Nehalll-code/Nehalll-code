@@ -21,24 +21,13 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages  
-`Python` | `C/C++` | `JavaScript` | `PHP` | `SQL`
+`Python` | `C` | `C++` | `Java` | `Embedded C` | `Assembly` | `JavaScript` | `PHP` | `SQL`
 
 #### 🧠 Core & Frameworks  
 `TensorFlow` | `PyTorch` | `Scikit-learn` | `Flask` | `FastAPI`
 
 #### 🗃️ Tools & Platforms  
 `Git` | `GitHub` | `VS Code` | `Linux` | `Jupyter` | `Postman`
-
----
-
-### 🚀 Featured Projects
-| 🧩 Project | ⚙️ Tech | 📜 Description |
-|------------|----------|----------------|
-| **Research Paper Summarizer** | `Python`, `Hugging Face`, `NLP` | Summarizes long academic PDFs using transformer-based models |
-| **Spam Email Classifier** | `Scikit-learn`, `TF-IDF`, `Flask` | Detects phishing/spam emails using ML & deploys via Flask API |
-| **Client-Server Transaction Simulation** | `Python`, `RSA`, `Crypto` | Simulates secure transaction protocols using RSA encryption |
-
-🪄 More coming soon... stay tuned!
 
 ---
 
