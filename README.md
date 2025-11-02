@@ -14,7 +14,7 @@
 - 🧠 Exploring **Machine Learning**, **Deep Learning**, and **Backend Engineering**  
 - 💬 I enjoy working on things that make me go “wait… how does that even work?”  
 - 🌱 Currently working through the **Deep Learning Specialization (Coursera)**  
-- ⚡ Fun fact: I treat debugging like detective work — minus the coffee (sometimes ☕).  
+- ⚡ Fun fact: I am Caffiene addict☕.  
 
 ---
 
